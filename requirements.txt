@@ -1,4 +1,10 @@
 numpy
 seaborn
 pandas
+matplotlib
+catboost
+xgboost
+sklearn.preprocessing
+sklearn.linear_model
+sklearn.model_selection
 -e .
